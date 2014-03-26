@@ -40,6 +40,7 @@ INSTALLED_APPS = (
     'blog',
 
     'south',
+    'tastypie',
 )
 
 MIDDLEWARE_CLASSES = (
